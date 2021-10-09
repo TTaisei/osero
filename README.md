@@ -1,2 +1,2 @@
 # osero
-https://qiita.com/tt_and_tk/items/6346aaec7277fca4ad2c
+https://qiita.com/tt_and_tk/items/068f2afde6db637e189f
