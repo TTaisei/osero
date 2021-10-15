@@ -1,0 +1,6 @@
+eva1hand_1hand_genetic.csv
+eva_1hand_1hand_rand.csv
+eva_1hand_rand_genetic.csv
+eva_1hand_rand_rand.csv
+eva_2hand_2hand_rand.csv
+eva_2hand_rand_genetic.csv
