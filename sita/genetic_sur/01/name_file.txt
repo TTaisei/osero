@@ -1,0 +1,10 @@
+normal
+custom
+eva_my
+corner
+box
+box_corner
+weak
+fifteen
+seventeen
+twenty
