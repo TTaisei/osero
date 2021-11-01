@@ -1,0 +1,10 @@
+corner_mi3+
+corner_mi3+_in
+corner_mi3+_out
+corner_mi3+x8
+corner_mi3+x10
+corner_mi3+wi
+corner_mi3+pl
+corner_mi3+o8
+corner_mi3+o10
+corner_mi3+ce

@@ -1,0 +1,10 @@
+corner_mi3
+corner_mi2+
+corner_mi3+
+corner_mi3++
+corner_mi3+++
+corner_mi3#
+corner_mi3#+
+corner_mi3-
+corner_mi3+5
+corner_mi3+3
