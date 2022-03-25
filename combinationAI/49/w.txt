@@ -1,0 +1,12 @@
+playMethod.add(Osero::random);	playMethodName.add("random");	readGoals.add(1);
+playMethod.add(Osero::random);	playMethodName.add("random");	readGoals.add(2);
+playMethod.add(Osero::nHand);	playMethodName.add("nHand");	readGoals.add(1);
+playMethod.add(Osero::nHand);	playMethodName.add("nHand");	readGoals.add(2);
+playMethod.add(Osero::nHandCustom);	playMethodName.add("nHandCustom");	readGoals.add(1);
+playMethod.add(Osero::nHandCustom);	playMethodName.add("nHandCustom");	readGoals.add(2);
+playMethod.add(Osero::nLeast);	playMethodName.add("nLeast");	readGoals.add(1);
+playMethod.add(Osero::nLeast);	playMethodName.add("nLeast");	readGoals.add(2);
+playMethod.add(Osero::nMost);	playMethodName.add("nMost");	readGoals.add(1);
+playMethod.add(Osero::nMost);	playMethodName.add("nMost");	readGoals.add(2);
+playMethod.add(OseroAI::oseroAI);	playMethodName.add("oseroAI");	readGoals.add(1);
+playMethod.add(OseroAI::oseroAI);	playMethodName.add("oseroAI");	readGoals.add(2);
